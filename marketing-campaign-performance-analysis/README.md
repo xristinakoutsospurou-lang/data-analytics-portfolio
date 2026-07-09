@@ -122,6 +122,22 @@ Based on the analysis:
 - Use customer segment insights to improve targeting strategies.
 
 ---
+---
+
+## Dashboard Preview
+
+### Executive Overview
+
+![Executive Overview](images/executive_overview.png)
+
+### Customer & Revenue Insights
+
+![Customer Insights](images/customer_insights.png)
+
+### Campaign Performance
+
+![Campaign Performance](images/campaign_performance.png)
+
 
 ## Project Structure
 marketing-campaign-performance-analysis/
